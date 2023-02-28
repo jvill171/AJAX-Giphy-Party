@@ -33,7 +33,7 @@ button{
     color:white;
     font-weight: bold;
 }
-form>*:active, form>*:hover{
+form>*:active, form>*:hover, form>input:focus{
     scale:110%;
     box-shadow: 0 0 10px gold;
     transition: scale 0.5s;
