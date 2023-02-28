@@ -2,7 +2,7 @@ gifSearch = document.querySelector("#gifSearch");
 searchBtn = document.querySelector("#searchBtn");
 rmBtn = document.querySelector("#rmBtn");
 
-const apiKey = "MhAodEJIJxQMxW9XqxKjyXfNYdLoOIym";
+const apiKey = "eHt2hTaWyFpL4VNYorzmSwcjK8Yc7ZA9";
 
 //Search giphy api for Gifs
 async function getGif(sTerm){
